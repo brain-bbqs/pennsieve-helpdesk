@@ -1,6 +1,8 @@
-# EMBER-PENNsieve Helpdesk
+# EMBER-Pennsieve Helpdesk
 
-A centralized public location to ask questions and propose ideas about the EMBER workspace on [PENNsieve](pennsieve.io).
+[Pennsieve](pennsieve.io) is a scalable, cloud-based platform for scientific data management, analysis, and publication.
+
+A centralized public location to ask questions and propose ideas related to the platform and its EMBER workspace.
 
 📖 [Read the discussions](https://github.com/brain-bbqs/pennsieve-helpdesk/discussions)
 
