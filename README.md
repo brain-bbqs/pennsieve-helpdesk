@@ -1,2 +1,3 @@
-# pennsieve-helpdesk
-A centralized public location to ask questions and propose ideas about the EMBER workshop on PENNsieve.
+# EMBER-PENNsieve Helpdesk
+
+A centralized public location to ask questions and propose ideas about the EMBER workspace on PENNsieve.
