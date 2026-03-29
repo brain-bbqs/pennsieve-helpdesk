@@ -6,7 +6,7 @@ A centralized public location to ask questions and propose ideas related to the 
 
 📖 [Read the discussions](https://github.com/brain-bbqs/pennsieve-helpdesk/discussions)
 
-💡 [Propose an improvement](https://github.com/brain-bbqs/pennsieve-helpdesk/discussions/new?category=ideas)
+💡 [Propose an idea](https://github.com/brain-bbqs/pennsieve-helpdesk/discussions/new?category=ideas)
 
 🙏 [Ask a question](https://github.com/brain-bbqs/pennsieve-helpdesk/discussions/new?category=q-a)
 
