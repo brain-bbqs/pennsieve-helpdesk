@@ -10,3 +10,4 @@ This is a centralized public location to ask questions and propose ideas related
 
 🙏 [Ask a question](https://github.com/brain-bbqs/pennsieve-helpdesk/discussions/new?category=q-a)
 
+💬 [Chat at the office hours](https://docs.pennsieve.io/docs/pennsieve-office-hours)
