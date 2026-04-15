@@ -1,4 +1,4 @@
-# EMBER-Pennsieve Helpdesk
+# 👋 Welcome to the EMBER-Pennsieve Helpdesk!
 
 [Pennsieve](pennsieve.io) is a scalable, cloud-based platform for scientific data management, analysis, and publication.
 
